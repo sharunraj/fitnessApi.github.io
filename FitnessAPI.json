@@ -1,0 +1,182 @@
+[
+  {
+    "workoutId": "1",
+    "workoutName": "Running",
+    "reps": 0,
+    "duration": 30,
+    "sets": 1,
+    "workoutType": "Cardio",
+    "caloriesBurned": 350.5
+  },
+  {
+    "workoutId": "2",
+    "workoutName": "Cycling",
+    "reps": 0,
+    "duration": 40,
+    "sets": 1,
+    "workoutType": "Cardio",
+    "caloriesBurned": 300.0
+  },
+  {
+    "workoutId": "3",
+    "workoutName": "Swimming",
+    "reps": 0,
+    "duration": 45,
+    "sets": 1,
+    "workoutType": "Cardio",
+    "caloriesBurned": 450.0
+  },
+  {
+    "workoutId": "4",
+    "workoutName": "Weightlifting",
+    "reps": 12,
+    "duration": 30,
+    "sets": 3,
+    "workoutType": "Strength",
+    "caloriesBurned": 250.0
+  },
+  {
+    "workoutId": "5",
+    "workoutName": "Yoga",
+    "reps": 0,
+    "duration": 60,
+    "sets": 1,
+    "workoutType": "Flexibility",
+    "caloriesBurned": 180.0
+  },
+  {
+    "workoutId": "6",
+    "workoutName": "Push-ups",
+    "reps": 30,
+    "duration": 15,
+    "sets": 3,
+    "workoutType": "Strength",
+    "caloriesBurned": 100.0
+  },
+  {
+    "workoutId": "7",
+    "workoutName": "Squats",
+    "reps": 20,
+    "duration": 20,
+    "sets": 3,
+    "workoutType": "Strength",
+    "caloriesBurned": 120.0
+  },
+  {
+    "workoutId": "8",
+    "workoutName": "Plank",
+    "reps": 0,
+    "duration": 3,
+    "sets": 3,
+    "workoutType": "Core",
+    "caloriesBurned": 50.0
+  },
+  {
+    "workoutId": "9",
+    "workoutName": "Deadlifts",
+    "reps": 10,
+    "duration": 25,
+    "sets": 3,
+    "workoutType": "Strength",
+    "caloriesBurned": 200.0
+  },
+  {
+    "workoutId": "10",
+    "workoutName": "Burpees",
+    "reps": 20,
+    "duration": 15,
+    "sets": 2,
+    "workoutType": "Cardio",
+    "caloriesBurned": 150.0
+  },
+  {
+    "workoutId": "11",
+    "workoutName": "Jumping Jacks",
+    "reps": 50,
+    "duration": 20,
+    "sets": 2,
+    "workoutType": "Cardio",
+    "caloriesBurned": 120.0
+  },
+  {
+    "workoutId": "12",
+    "workoutName": "Lunges",
+    "reps": 15,
+    "duration": 20,
+    "sets": 3,
+    "workoutType": "Strength",
+    "caloriesBurned": 130.0
+  },
+  {
+    "workoutId": "13",
+    "workoutName": "Bicep Curls",
+    "reps": 12,
+    "duration": 15,
+    "sets": 4,
+    "workoutType": "Strength",
+    "caloriesBurned": 80.0
+  },
+  {
+    "workoutId": "14",
+    "workoutName": "Tricep Dips",
+    "reps": 15,
+    "duration": 15,
+    "sets": 3,
+    "workoutType": "Strength",
+    "caloriesBurned": 70.0
+  },
+  {
+    "workoutId": "15",
+    "workoutName": "Mountain Climbers",
+    "reps": 50,
+    "duration": 20,
+    "sets": 2,
+    "workoutType": "Cardio",
+    "caloriesBurned": 140.0
+  },
+  {
+    "workoutId": "16",
+    "workoutName": "Jump Rope",
+    "reps": 0,
+    "duration": 30,
+    "sets": 1,
+    "workoutType": "Cardio",
+    "caloriesBurned": 300.0
+  },
+  {
+    "workoutId": "17",
+    "workoutName": "Box Jumps",
+    "reps": 20,
+    "duration": 15,
+    "sets": 2,
+    "workoutType": "Strength",
+    "caloriesBurned": 180.0
+  },
+  {
+    "workoutId": "18",
+    "workoutName": "Kettlebell Swings",
+    "reps": 15,
+    "duration": 20,
+    "sets": 3,
+    "workoutType": "Strength",
+    "caloriesBurned": 220.0
+  },
+  {
+    "workoutId": "19",
+    "workoutName": "Treadmill Walking",
+    "reps": 0,
+    "duration": 40,
+    "sets": 1,
+    "workoutType": "Cardio",
+    "caloriesBurned": 250.0
+  },
+  {
+    "workoutId": "20",
+    "workoutName": "Rowing",
+    "reps": 0,
+    "duration": 30,
+    "sets": 1,
+    "workoutType": "Cardio",
+    "caloriesBurned": 330.0
+  }
+]
